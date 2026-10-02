@@ -7,6 +7,6 @@ Put your Fire TV Stick to sleep from your Windows PC. Enter the device’s IP ad
 
 The utility remembers your device address, can find ADB in common locations, and lets you browse to adb.exe wherever you keep it. A built-in Quick Start guide walks you through setup.
 
-Requirements: Windows 10 or 11 (64-bit), ADB Platform-Tools, and ADB Debugging enabled on your Fire TV Stick. ADB is downloaded and installed separately by the user.
+Requirements: Windows 10 or 11 (64-bit), ADB Platform-Tools, and ADB Debugging enabled on your Fire TV Stick.
 
 This is an independent utility and is not affiliated with or endorsed by Amazon.
